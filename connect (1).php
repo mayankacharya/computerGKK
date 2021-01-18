@@ -87,17 +87,17 @@ if($conn)
 }
 else
 {
-    <h1>Contact Form</h1><br>
+   
+    die("Connection failed because ".mysqli_connect_error());
+}
+?>
+
+ <h1>Contact Form</h1><br>
 <button><a href="contact.html">CONTACT</a></button>
 <br>
 <br>
 <h1>HOME PAGE</h1><br>
 <button><a href="index.html">HOME</a></button>
-    die("Connection failed because ".mysqli_connect_error());
-}
-?>
-
-
 <div class="social-menu">
   <ul>
      <li><a href="#"><i class="fa fa-facebook"></i></a></li>
