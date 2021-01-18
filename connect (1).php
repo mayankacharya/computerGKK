@@ -102,7 +102,7 @@ else
      <li><a href="#"><i class="fa fa-facebook"></i></a></li>
       <li><a href="#"><i class="fa fa-instagram"></i></a></li>
       <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-       <li><a href="https://github.com/mayankacharya/puzzle--game.git"><i class="fa fa-GitHub"></i></a></li>
+       <li><a href="https://github.com/mayankacharya/computerGKK"><i class="fa fa-GitHub"></i></a></li>
   </ul>
 
 </body>
